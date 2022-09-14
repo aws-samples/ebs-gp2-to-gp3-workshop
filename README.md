@@ -1,11 +1,6 @@
-## My Project
+## EBS gp2 to gp3 migration script
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+The contained script (EBSchangev3.py) is part of the AWS workshop below which walks through a step-by-step process for a scripted migration of EBS volumes.
 
 ## Security
 
