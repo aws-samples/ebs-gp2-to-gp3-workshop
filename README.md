@@ -2,6 +2,8 @@
 
 The contained script (EBSchangev3.py) is part of the AWS workshop below which walks through a step-by-step process for a scripted migration of EBS volumes.
 
+<Link to Workshop>
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
