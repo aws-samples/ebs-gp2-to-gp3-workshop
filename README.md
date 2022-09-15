@@ -6,7 +6,7 @@ The contained script (EBSchangev3.py) is part of the AWS workshop below which wa
 
 Running the script:
 
-python3 EBS_change.py --account-id 012345678912 --region eu-west-1
+`python3 EBS_change.py --account-id 012345678912 --region eu-west-1`
 
 Or, to use a list of account and volume IDs from a file:
 
