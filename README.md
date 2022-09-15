@@ -10,11 +10,11 @@ Running the script:
 
 Or, to use a list of account and volume IDs from a file:
 
-python3 EBS_change.py –-filename inputFile.csv
+`python3 EBS_change.py –-filename inputFile.csv`
 
-The script runs in 'dry run' mode by default, so no changes are made unless the --dryRun argument is passed in and is explictly set to False, for example:
+The script runs in 'dry run' mode by default, so no changes are made unless the `--dryRun` argument is passed in and is explictly set to False, for example:
 
-python3 EBS_change.py –-dryRun False –-filename inputFile.csv
+`python3 EBS_change.py –-dryRun False –-filename inputFile.csv`
 
 ## Security
 
